@@ -7,8 +7,7 @@
 - <b>Encryption-Decryption</b>
   - [Encryption-Decryption-with-GUI using python](https://github.com/Gladotta/Encryption-Decryption-with-GUI)
   - [Encryption-Decryption-in-terminal using python](https://github.com/Gladotta/Encryption-Decryption-in-terminal)
- - 
-  - 
+  
 
 <h2>📺 Blogs</h2>
 
